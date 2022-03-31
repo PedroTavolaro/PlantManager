@@ -37,8 +37,9 @@ export async function savePlant(plant: PlantProps) : Promise<void> {
             const interval = Math.trunc(7 / times);
             nexTime.setDate(now.getDate() + interval);
             
-        }else 
-           nexTime.setDate(nexTime.getDate() +1 )
+        }//comente aqui 2L abaixo
+        else 
+            nexTime.setDate(nexTime.getDate() +1 )
 
             const seconds = Math.abs(
                 Math.ceil(now.getTime() - nexTime.getTime()) / 1000);
@@ -76,7 +77,7 @@ export async function savePlant(plant: PlantProps) : Promise<void> {
         }));
 
     }catch(error) {
-        throw new Error(error);
+        throw new (Error);
     }
 } 
 
@@ -106,7 +107,7 @@ export async function loadPlant() : Promise<PlantProps[]> {
         
 
     }catch(error) {
-        throw new Error(error);
+        throw new Error;
     }
 } 
 

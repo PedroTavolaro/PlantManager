@@ -9,10 +9,8 @@ import {
     Alert,
 } from 'react-native'
 import { Header } from '../components/Header';
-
 import waterdrop from '../assets/waterdrop.png'
 import colors from '../styles/colors';
-
 import { loadPlant, PlantProps, removePlant } from '../libs/storage';
 import { formatDistance } from 'date-fns';
 import { pt } from 'date-fns/locale';
@@ -63,7 +61,7 @@ export function MyPlants() {
             );
 
             setNextWatered(
-                `Não esqueça de regar a ${plantsStoraged[0].name} à ${nexTime} horas.`
+                `Não esqueça de regar a ${plantsStoraged[0].name} à ${nexTime}.`
             )
 
             setMyPlants(plantsStoraged);

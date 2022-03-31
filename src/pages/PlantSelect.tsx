@@ -198,9 +198,9 @@ const styles = StyleSheet.create({
     enviromentList: {
         height: 40,
         justifyContent: 'center',
-        paddingBottom: 5,
-        marginLeft: 32,
-        marginVertical: 32
+        marginLeft: 2,
+        marginVertical: 32,
+     
     },
     plants: {
         flex: 1,
