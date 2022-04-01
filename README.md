@@ -29,8 +29,8 @@
 
 
 <h1 align="left">
-  <img width="420em" height="620em" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/imgProject/plant1.png" />
-  <img width="420em" height="620em" alt="plant2" title="#plant2" src="./assets/imgProject/plamt2.png" />
+  <img width="320em" height="620em" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/imgProject/plant1.png" />
+  <img width="320em" height="620em" alt="plant2" title="#plant2" src="./assets/imgProject/plamt2.png" />
 </h1>
 
   
