@@ -33,5 +33,29 @@
   <img width="320em" height="620em" alt="plant2" title="#plant2" src="./assets/imgProject/plamt2.png" />
 </h1>
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;"  width="100px;" alt=""/>
+ <br />
+ <sub><b>PedroTavolaro</b></sub></a> <a href="https://www.pedrotavolaro.ccom" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por Pedro Tavolaro 👋🏽 Entre em contato!
+
+[![Twitter Badge](https://img.shields.io/badge/-@pedrotavolaro-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pedrotavolaro)](https://twitter.com/pedrotavolaro) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotavolaro/)](https://www.linkedin.com/in/pedrotavolaro/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedrotavolaro@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrotavolaro@hotmail.com)](mailto:pedrotavolaro@hotmail.com)
+
   
 
