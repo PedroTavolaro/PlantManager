@@ -1,4 +1,4 @@
-# PlantManager
+
 
 <h1 align="center">PlantManager</h1>
 
@@ -15,25 +15,29 @@
   <!--ts-->
    * [Features](#features)
    * [Tecnologias](#tecnologias)
-   * [Rodando a Aplicação](#Rodando a aplicação)
+   * [Rodando a Aplicação](#como-executar-o-projeto)
+   * [Como contribuir para o projeto](#como-contribuir-para-o-projeto)
    * [Autor](#autor)
 <!--te-->
 
-<a href="https://reactnative.dev/">🔗 React Native</a>
+<p align="center"> 
+ <a href="https://reactnative.dev/">🔗 React Native</a>
 <a href="https://expo.dev/">🔗 Expo</a>
 <a href="https://pt-br.reactjs.org/">🔗 React</a>
 <a href="https://nodejs.org/en/">🔗 NodeJs</a>
 <a href="https://www.npmjs.com/">🔗 NPM</a>
+</p>
 
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
+  
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-<img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=Expo&message=41.0.0&color=green&style=for-the-badge&logo=ghost"/>
+<p align="center">
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-
-
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=Expo&message=41.0.0&color=red&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=NodeJs&message=16.14.2&color=green&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=NPM&message=8.5.5&color=pink&style=for-the-badge&logo=ghost"/>
+</p>
 
 <h4 align="center"> 
     🚧  React Native Select 🚀 concluído...  🚧
@@ -61,7 +65,7 @@
   
 </h1>
 
-### Tecnologias 
+## Tecnologias 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Expo](https://expo.io/)
@@ -70,44 +74,48 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 💡o Projeto precisa que uma api facke esteja sendo executado para funcionar (utilizo da lib json-server).
+https://www.npmjs.com/package/json-server
 
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[NodeJs](https://nodejs.org/en/),
+[NPM](https://www.npmjs.com/) e
 [Expo](https://expo.io/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### Rodando a aplicação
+### 🚀 Rodando a aplicação
 
-# Clone este repositório
+## Clone este repositório
 $ git clone https://github.com/PedroTavolaro/PlantManager.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
+## Acesse a pasta do projeto no seu terminal/cmd
 $ cd PlantManager
 
-# Instale as dependências
+## Instale as dependências
 $ npm install ou yarn install
+
 $ veja o arquivo https://github.com/PedroTavolaro/PlantManager/blob/main/package.json e instale suas dependências
 
-  # instalar dependencia global na maquina 
+  ## instalar dependencia global na maquina 
   $ npm install -g json-server
   
-  # Verifique a pasta ./src/services/api.ts
+  ## Verifique a pasta ./src/services/api.ts
   $ verifique a linha 4 baseURL: 'http://192.168.1.10:3333' subistitua por 'http://IPDASUAMAQUINA:PORTA' assim alocando o ip da sua maquina e a porta       disponivel para uso. padrão (3333)
   
-  # rodar o simulador de api
+  ## rodar o simulador de api
   $ json-server ./src/services/server.json --host 192.168.1.4 (subistituir pelo seu ip) --port 3333 (porta padrao)
 
-# Execute a aplicação
+## Execute a aplicação
 $ expo start
 
-# Acesse a aplicação apartir do emulador de androind / IOS ou do seu aparelho celular realizando o download do expoClient no PlayStore
+## Acesse a aplicação apartir do emulador de androind / IOS ou do seu aparelho celular realizando o download do expoClient no PlayStore
 
 ## 📝 Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-## 💪 Como contribuir para o projeto
+## Como contribuir para o projeto
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
