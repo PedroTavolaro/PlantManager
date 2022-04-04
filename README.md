@@ -10,9 +10,7 @@
                 por exemplo quanto tempo a planta precisa de luz e de quanto em quanto tempo deve ser regada.
 </p>
 
-<p align="center">
- <a href="#autor">Autor</a> •
-  </p>
+
   
   <!--ts-->
    * [Features](#features)
@@ -32,7 +30,10 @@
 
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-<img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=React&message=16.13.1&color=7159c1&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=Expo&message=41.0.0&color=green&style=for-the-badge&logo=ghost"/>
+
+
+
 
 <h4 align="center"> 
     🚧  React Native Select 🚀 concluído...  🚧
@@ -77,7 +78,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Expo](https://expo.io/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🧭 Rodando a aplicação
+#### Rodando a aplicação
 
 # Clone este repositório
 $ git clone https://github.com/PedroTavolaro/PlantManager.git
@@ -96,7 +97,7 @@ $ veja o arquivo https://github.com/PedroTavolaro/PlantManager/blob/main/package
   $ verifique a linha 4 baseURL: 'http://192.168.1.10:3333' subistitua por 'http://IPDASUAMAQUINA:PORTA' assim alocando o ip da sua maquina e a porta       disponivel para uso. padrão (3333)
   
   # rodar o simulador de api
-  $json-server ./src/services/server.json --host 192.168.1.4 (subistituir pelo seu ip) --port 3333 (porta padrao)
+  $ json-server ./src/services/server.json --host 192.168.1.4 (subistituir pelo seu ip) --port 3333 (porta padrao)
 
 # Execute a aplicação
 $ expo start
