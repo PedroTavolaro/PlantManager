@@ -51,14 +51,14 @@
 - [x] Notificação
 
 <h1 align="left">
-  <img width="310em" height="620em" alt="plant1" title="#plant1" src="./assets/imgProject/plant1.png" />
-  <img width="310em" height="620em" alt="plant2" title="#plant2" src="./assets/imgProject/plamt2.png" />
-  <img width="310em" height="620em" alt="plant3" title="#plant3" src="./assets/imgProject/plant3.png" />
+  <img width="280em" height="620em" alt="plant1" title="#plant1" src="./assets/imgProject/plant1.png" />
+  <img width="280em" height="620em" alt="plant2" title="#plant2" src="./assets/imgProject/plamt2.png" />
+  <img width="280em" height="620em" alt="plant3" title="#plant3" src="./assets/imgProject/plant3.png" />
 </h1>
 <h1 align="left">
-  <img width="310em" height="620em" alt="plant4" title="#plant4" src="./assets/imgProject/plant4.png" />
-  <img width="310em" height="620em" alt="plant6" title="#plant6" src="./assets/imgProject/plant6.png" />
-  <img width="310em" height="620em" alt="plant5" title="#plant5" src="./assets/imgProject/plant5.png" />
+  <img width="280em" height="620em" alt="plant4" title="#plant4" src="./assets/imgProject/plant4.png" />
+  <img width="280em" height="620em" alt="plant6" title="#plant6" src="./assets/imgProject/plant6.png" />
+  <img width="280em" height="620em" alt="plant5" title="#plant5" src="./assets/imgProject/plant5.png" />
 </h1>
 <h1 align="left">
   <img width="320em" height="620em" alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/imgProject/plant9.png" />
